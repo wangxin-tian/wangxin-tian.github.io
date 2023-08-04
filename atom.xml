@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>弟皇侠&#39;s blog</title>
+  
+  
+  <link href="https://dhxia.xyz/atom.xml" rel="self"/>
+  
+  <link href="https://dhxia.xyz/"/>
+  <updated>2022-07-04T10:15:08.000Z</updated>
+  <id>https://dhxia.xyz/</id>
+  
+  <author>
+    <name>弟皇侠</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>浅谈安卓系统上的DSU loader</title>
+    <link href="https://dhxia.xyz/2022/07/04/dsu/"/>
+    <id>https://dhxia.xyz/2022/07/04/dsu/</id>
+    <published>2022-07-04T10:15:08.000Z</published>
+    <updated>2022-07-04T10:15:08.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;什么是DSU-loader&quot;&gt;&lt;a href=&quot;#什么是DSU-loader&quot; class=&quot;headerlink&quot; title=&quot;什么是DSU loader?&quot;&gt;&lt;/a&gt;什么是DSU loader?&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;code&gt;dsu</summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://dhxia.xyz/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用gulp-replace实现全局替换jsd cdn加速链接（包括插件）</title>
+    <link href="https://dhxia.xyz/2022/01/26/gulp-replace/"/>
+    <id>https://dhxia.xyz/2022/01/26/gulp-replace/</id>
+    <published>2022-01-26T11:50:08.000Z</published>
+    <updated>2022-01-26T11:50:08.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;自从jsd官方的ICP被吊销以后，国内的大部分网站速度越来越慢，本文提供一个简单的可行性办法&lt;/p&gt;
+&lt;p&gt;使用前您最好先了解gulp&lt;a href=&quot;https://akilar.top/posts/49b73b87/&quot;&gt;使用 gulp</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>免费jsd镜像使用手册（无需申请）</title>
+    <link href="https://dhxia.xyz/2022/01/26/cdn/"/>
+    <id>https://dhxia.xyz/2022/01/26/cdn/</id>
+    <published>2022-01-26T06:36:24.000Z</published>
+    <updated>2022-02-02T06:55:24.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;免费JSD镜像使用手册-求打赏&quot;&gt;&lt;a href=&quot;#免费JSD镜像使用手册-求打赏&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="jsd" scheme="https://dhxia.xyz/tags/jsd/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>绵阳市高2019级第一次诊断性考试</title>
+    <link href="https://dhxia.xyz/2021/11/06/2021my1z/"/>
+    <id>https://dhxia.xyz/2021/11/06/2021my1z/</id>
+    <published>2021-11-06T11:58:35.000Z</published>
+    <updated>2021-11-06T11:58:35.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;(ノ°ο°)ノ&lt;br&gt;答案&lt;a</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>无服务器部署php程序，以typecho为例</title>
+    <link href="https://dhxia.xyz/2021/08/10/php-vercel/"/>
+    <id>https://dhxia.xyz/2021/08/10/php-vercel/</id>
+    <published>2021-08-10T05:13:34.000Z</published>
+    <updated>2021-08-10T05:13:34.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;引入：本教程适合无服务器搭建php服务的兄弟们&lt;/p&gt;
+&lt;p&gt;注：1.使用此教程的方法最好加上CDN加速，否则访问速度可以逼死你&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;环境配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input checked=&quot;&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用go-cqhttp搭建一个属于自己的机器人</title>
+    <link href="https://dhxia.xyz/2021/06/08/qqbot/"/>
+    <id>https://dhxia.xyz/2021/06/08/qqbot/</id>
+    <published>2021-06-08T06:07:05.000Z</published>
+    <updated>2021-06-20T05:08:05.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不少朋友肯定都想希望QQ像”蓝色飞机”一样搞一个自己的万能bot，可是在之前腾讯把大把机器人都赶尽杀绝，不过github话说有许多不错的项目。今天的教程就教大家搭建一个自己的bot&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="bot" scheme="https://dhxia.xyz/tags/bot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>从零开始的Hexo博客搭建</title>
+    <link href="https://dhxia.xyz/2021/05/04/hexo/"/>
+    <id>https://dhxia.xyz/2021/05/04/hexo/</id>
+    <published>2021-05-03T23:51:58.000Z</published>
+    <updated>2021-05-03T23:51:58.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前言：哪个男孩不想拥有自己的网站呢？&lt;/p&gt;
+&lt;p&gt;hexo简介：Hexo 是一个基于&lt;a href=&quot;http://www.oschina.net/p/nodejs&quot;&gt;nodejs&lt;/a&gt; 的静态博客网站生成器，作者是来自台湾的 &lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基于github的图床搭建</title>
+    <link href="https://dhxia.xyz/2021/04/25/img2/"/>
+    <id>https://dhxia.xyz/2021/04/25/img2/</id>
+    <published>2021-04-25T00:19:45.000Z</published>
+    <updated>2021-04-25T00:19:45.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;基于github和jsdelivr的图床搭建&lt;/p&gt;
+&lt;p&gt;这个开源项目是在看小嘉的blog时看到的，在此感谢小嘉与开发者&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;a class=&quot;btn-beautify orange larger&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="图床" scheme="https://dhxia.xyz/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Memories</title>
+    <link href="https://dhxia.xyz/2021/04/10/memories/"/>
+    <id>https://dhxia.xyz/2021/04/10/memories/</id>
+    <published>2021-04-10T11:58:35.000Z</published>
+    <updated>2021-04-10T11:58:35.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;这里会记录一些我的回忆&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gallery-group-main&quot;&gt;
+
+  &lt;figure class=&quot;gallery-group&quot;&gt;
+  &lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="杂谈" scheme="https://dhxia.xyz/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo插件推荐—博文加密插件</title>
+    <link href="https://dhxia.xyz/2021/03/26/hexo-encrypt/"/>
+    <id>https://dhxia.xyz/2021/03/26/hexo-encrypt/</id>
+    <published>2021-03-26T15:24:23.000Z</published>
+    <updated>2021-03-26T15:24:23.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;在文章创作过程中你可能会有一些比较私密的文章，这对于动态php博客来说非常简单，可是对于hexo这样的静态博客来说太难了&lt;/p&gt;
+&lt;p&gt;偶然间我发现了&lt;a</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="hexo插件" scheme="https://dhxia.xyz/tags/hexo%E6%8F%92%E4%BB%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>YesPlayMusic部署教程</title>
+    <link href="https://dhxia.xyz/2021/03/13/yesplaymusic/"/>
+    <id>https://dhxia.xyz/2021/03/13/yesplaymusic/</id>
+    <published>2021-03-13T11:43:59.000Z</published>
+    <updated>2021-03-13T11:43:59.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;YesPlayMusic 一款简洁美观的第三方网易云音乐&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br /&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;a href=&quot;https://music.tianli0.top&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>喜大奔普，四川省网站备案，年龄限制终于降低了</title>
+    <link href="https://dhxia.xyz/2021/02/25/beian/"/>
+    <id>https://dhxia.xyz/2021/02/25/beian/</id>
+    <published>2021-02-25T12:44:19.000Z</published>
+    <updated>2021-02-25T12:44:19.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;在很早之前就想ICP备案了，可惜因为年龄限制，一直没去，不过今年嫖了腾讯云轻量1200的券，买了一台一直到2022-09-30的应用服务器，买的国内，需要备案，但是一看四川省年龄限制</summary>
+        
+      
+    
+    
+    
+    
+    <category term="ICP备案" scheme="https://dhxia.xyz/tags/ICP%E5%A4%87%E6%A1%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你也可以拥有自己的随机图片api</title>
+    <link href="https://dhxia.xyz/2021/02/16/dmapi/"/>
+    <id>https://dhxia.xyz/2021/02/16/dmapi/</id>
+    <published>2021-02-16T03:43:20.000Z</published>
+    <updated>2021-02-16T03:43:20.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;如果你经常访问我的主页面你会发现，每次刷新，背景图都不一样。这是因为我使用了随即图片的api，那么网络上那么多随机图片的api，但是觉得质量不够怎么办呢？十几行代码轻松解决问题。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="api" scheme="https://dhxia.xyz/tags/api/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>限量免费赠送office365e5账号</title>
+    <link href="https://dhxia.xyz/2021/02/07/office/"/>
+    <id>https://dhxia.xyz/2021/02/07/office/</id>
+    <published>2021-02-07T06:50:12.000Z</published>
+    <updated>2021-02-07T06:50:12.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;strong&gt;限时免费赠送office365 e5</summary>
+        
+      
+    
+    
+    
+    
+    <category term="office" scheme="https://dhxia.xyz/tags/office/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生学堂查看市排名</title>
+    <link href="https://dhxia.xyz/2021/01/28/sxt/"/>
+    <id>https://dhxia.xyz/2021/01/28/sxt/</id>
+    <published>2021-01-28T09:47:39.000Z</published>
+    <updated>2021-07-13T10:56:39.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;引入：鉴于绵阳市教研所不对成绩排名等信息完全公开，这个时候就需要一定的技术手段来解决。此文章就是对获取这些数据的教程。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;1.首先确保你有足够的技术和理解能力来折腾&lt;/p&gt;
+&lt;/bl</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>电信烽火HG2543C1光猫超管密码获取教程</title>
+    <link href="https://dhxia.xyz/2021/01/17/dian-xin-feng-huo-hg2543c1-guang-mao-chao-guan-mi-ma-huo-qu-jiao-cheng/"/>
+    <id>https://dhxia.xyz/2021/01/17/dian-xin-feng-huo-hg2543c1-guang-mao-chao-guan-mi-ma-huo-qu-jiao-cheng/</id>
+    <published>2021-01-17T03:46:24.000Z</published>
+    <updated>2021-01-17T03:46:24.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;之前因为我家那个华为的光猫HG8120C是百兆猫，所以我就”联系”电信换了一个千兆的烽火HG2543C1&lt;/p&gt;
+&lt;p&gt;现在直接进入正文：&lt;/p&gt;
+&lt;h2 id=&quot;1-首先打开浏览器输入&quot;&gt;&lt;a href=&quot;#1-首先打开浏览器输入&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="教程" scheme="https://dhxia.xyz/tags/%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="电信光猫" scheme="https://dhxia.xyz/tags/%E7%94%B5%E4%BF%A1%E5%85%89%E7%8C%AB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://dhxia.xyz/2021/01/01/hello-world/"/>
+    <id>https://dhxia.xyz/2021/01/01/hello-world/</id>
+    <published>2020-12-31T16:00:00.000Z</published>
+    <updated>2020-12-31T16:00:00.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;欢迎来到 &lt;a href=&quot;tianli-blog.club&quot;&gt;Tianli’s blog&lt;/a&gt;! 这是一个基于hexo搭建的博客。&lt;/p&gt;
+&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="hexo" scheme="https://dhxia.xyz/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>作为一个普通的NAS，玩客云怎么样</title>
+    <link href="https://dhxia.xyz/2020/03/01/zuo-wei-yi-ge-pu-tong-de-nas-wan-ke-yun-zen-me-yang/"/>
+    <id>https://dhxia.xyz/2020/03/01/zuo-wei-yi-ge-pu-tong-de-nas-wan-ke-yun-zen-me-yang/</id>
+    <published>2020-03-01T08:10:44.000Z</published>
+    <updated>2020-03-01T08:10:44.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&quot;&quot; type=&quot;checkbox&quot;&gt; 先不聊这个，大家先看官方宣传图&lt;img</summary>
+        
+      
+    
+    
+    
+    
+    <category term="NAS" scheme="https://dhxia.xyz/tags/NAS/"/>
+    
+    <category term="体验" scheme="https://dhxia.xyz/tags/%E4%BD%93%E9%AA%8C/"/>
+    
+  </entry>
+  
+</feed>
