@@ -1,7 +1,7 @@
 console.log('此博客项目借鉴自BF-OK(https://github.com/TIANLI0/BF-OK)');
-console.log('这是经过TIANLI魔改的butterfly主题，\n我的计划是使用这个静态页面，\n给它搭建一个后台并且尝试自己的修改');
-console.log('%c后台搭建：%c in progress',"padding: 5px 0","color: #fff; background: #00a6ff; padding: 5px 0");
-console.log('%c页面修改：%c in progress',"padding: 5px 0","color: #fff; background: #00a6ff; padding: 5px 0");
+console.log('这是经过TIANLI魔改的butterfly主题，\n我的计划是使用这个静态页面，\n给它搭建一个后台并且尝试自己的修改主题');
+console.log('%c后台搭建：%c in progress ⚪',"padding: 5px 0","color: #fff; background: #00a6ff; padding: 5px 2px");
+console.log('%c页面修改：%c in progress ⚪',"padding: 5px 0","color: #fff; background: #00a6ff; padding: 5px 2px");
 console.log(`
   ===================================================================
                                                                      
